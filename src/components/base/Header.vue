@@ -2,7 +2,7 @@
   <header class="header">
     <div class="wrapper">
       <a href="https://www.gabiacns.com" class="logo">
-        <!-- <img src="/images/common/logo.svg" alt="" /> -->
+        <img src="/images/common/logo.svg" alt="" />
       </a>
       <div class="links">
         <nav>
